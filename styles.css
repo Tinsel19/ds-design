@@ -149,7 +149,7 @@ button {
         background-color: rgb(255, 183, 49);
         
         left: 10%;
-        top: 20px;
+        bottom: 20%;
         height: 250px;
         width: 40%;
     }

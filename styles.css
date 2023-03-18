@@ -135,27 +135,26 @@ button {
 
 }
 
-@media (min-width: 545px) and (max-width: 740px) {
+@media (min-width: 546px)  {
     .square1 {
         background-color: #ffc2c9;
         left: 60%;
         top: 580px;
         z-index: 0;
         height: 100px;
-        width: 40%;
+        width: 300px;
     }
     
     .square2 {
         background-color: rgb(255, 183, 49);
         
         left: 10%;
-        top: 5%;
+        top: 20px;
         height: 250px;
         width: 40%;
     }
     
 }
-
 
 @media (min-width: 324px) and (max-width: 545px) {
     #main {
